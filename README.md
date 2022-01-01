@@ -1,6 +1,6 @@
 # Flic plugin for GarageBand
 
-Enable rapid rehearsal iteration with one button GarageBand record and playback.
+With Flic and GarageBand, you can rapidly review your instrument or voice recordings with one button record and playback.
 
 The rapid rehearsal iteration:
 1. **Double-Click** - Record.
