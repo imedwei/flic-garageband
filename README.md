@@ -3,9 +3,9 @@
 With [Flic](https://flic.io/) and [GarageBand for Mac](https://www.apple.com/mac/garageband/), you can rapidly review your instrument or voice recordings with one button record and playback.
 
 The rapid rehearsal iteration:
-1. **Double-Click** - Record.
+1. Flic button **Double-Click** - Record.
 2. Play instrument or sing.
-3. **Click** - Playback
+3. Flic button **Click** - Playback
 4. Listen
 5. Repeat
 
