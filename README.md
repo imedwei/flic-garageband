@@ -1,6 +1,6 @@
 # Flic plugin for GarageBand
 
-With Flic and GarageBand, you can rapidly review your instrument or voice recordings with one button record and playback.
+With [Flic](https://flic.io/) and [GarageBand for Mac](https://www.apple.com/mac/garageband/), you can rapidly review your instrument or voice recordings with one button record and playback.
 
 The rapid rehearsal iteration:
 1. **Double-Click** - Record.
@@ -10,15 +10,14 @@ The rapid rehearsal iteration:
 5. Repeat
 
 ## Installation
-1. Clone or copy this folder into ~/Library/Application\ Scripts/com.shortcutlabs.FlicMac/
-2. Open System Preferences/Security & Privacy
-3. Enable "Flic" application in the "Privacy/Accessibility" pane.
-
-### TEA SPOON VERSION, JUST IN CASE
-Copy folder
-Open Flic app
-Click "Plugins" menu, "Show Folder"
-⌘ + v (Paste) and click Yes if Finder is nagging
+1. Clone or copy this folder into "~/Library/Application\ Scripts/com.shortcutlabs.FlicMac/".
+2. Or using the UI, deploy the plugin via the follwing steps:
+   - Copy folder
+   - Open Flic app
+   - Click "Plugins" menu, "Show Folder"
+   - ⌘ + v (Paste) and click Yes if Finder is nagging
+3. Open System Preferences/Security & Privacy
+4. Enable "Flic" application in the "Privacy/Accessibility" pane.
 
 ## Actions
 
