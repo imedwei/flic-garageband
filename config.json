@@ -1,0 +1,17 @@
+{
+	"pluginName": "GarageBand",
+	"pluginDescription": "GarageBand Actions",
+	"pluginReadMore": "Sends keycodes to GarageBand to start recording.",
+	"protocolVersion": 1,
+	"actions":
+	[
+		{
+			"actionName": "Record",
+			"fileName": "GarageBandRecord.scpt",
+		},
+		{
+			"actionName": "Playback",
+			"fileName": "GarageBandPlayback.scpt",
+		}
+	]
+}
